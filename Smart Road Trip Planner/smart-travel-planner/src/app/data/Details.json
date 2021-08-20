@@ -1,0 +1,397 @@
+{
+  "name": "Sheraton Grand Chennai Resort & Spa",
+  "hotelId": "798096544",
+  "cityId": "675398",
+  "tagline": [
+    "<b>4.5-star beachfront hotel with spa, near Madras Crocodile Bank Trust </b>"
+  ],
+  "address": "280 ECR, Vedanamelli, Chengalpattu, Tamil Nadu, 603104, India",
+  "stars": 4.5,
+  "freebies": ["Free WiFi and free parking"],
+  "featuredPrice": "$105",
+  "avgGuestReviews": 9.2,
+  "atAGlance": {
+    "keyFacts": {
+      "hotelSize": ["This hotel has 125 rooms"],
+      "arrivingLeaving": [
+        "Check-in time 3:00 PM-noon",
+        "Check-out time is  noon",
+        "Express check-in/out"
+      ],
+      "specialCheckInInstructions": [
+        "To make arrangements for check-in please contact the property at least 24 hours before arrival using the information on the booking confirmation. Guests planning to arrive outside of normal check-in hours must contact the property in advance for check-in instructions. Front desk staff will greet guests on arrival. "
+      ],
+      "requiredAtCheckIn": [
+        "Credit card, debit card, or cash deposit required for incidental charges",
+        "Government-issued photo ID may be required",
+        "Minimum check-in age is 17"
+      ]
+    },
+    "travellingOrInternet": {
+      "travelling": {
+        "children": [
+          "One child stays free when occupying the parent or guardian's room, using existing bedding",
+          "<em>Free</em> babysitting/childcare",
+          "Children's club*"
+        ],
+        "pets": ["No pets or service animals allowed"],
+        "extraPeople": []
+      },
+      "internet": [
+        "Free WiFi in public areas",
+        "Free WiFi and wired Internet access in rooms"
+      ]
+    },
+    "transportAndOther": {
+      "transport": {
+        "transfers": [],
+        "parking": [
+          "<em>Free</em> onsite self parking",
+          "<em>Free</em> onsite valet parking",
+          "Wheelchair-accessible parking and van parking on site"
+        ],
+        "offsiteTransfer": []
+      },
+      "otherInformation": ["No alcohol allowed onsite"],
+      "otherInclusions": []
+    }
+  },
+  "amenities": [
+    {
+      "heading": "In the hotel",
+      "listItems": [
+        {
+          "heading": "Taking the kids?",
+          "listItems": [
+            "Children's club (surcharge)",
+            "Supervised childcare/activities"
+          ]
+        },
+        {
+          "heading": "Food and drink",
+          "listItems": [
+            "Continental breakfast daily (surcharge)",
+            "3 restaurants",
+            "Bar/lounge",
+            "Coffee shop/café",
+            "Snack bar/deli",
+            "24-hour room service",
+            "Barbecue grills"
+          ]
+        },
+        {
+          "heading": "Things to do",
+          "listItems": [
+            "Free beach cabanas",
+            "Beach sun loungers",
+            "Free pool cabanas",
+            "Pool sun loungers",
+            "24-hour fitness facilities",
+            "Full-service spa",
+            "Spa treatment room(s)",
+            "Fitness classes on site",
+            "Playground on site",
+            "Kayaking nearby",
+            "Scuba diving nearby",
+            "Snorkeling nearby",
+            "Surfing/boogie boarding nearby",
+            "Beach umbrellas",
+            "Pool umbrellas",
+            "Beach towels",
+            "Arcade/game room",
+            "Billiards or pool table"
+          ]
+        },
+        {
+          "heading": "Working away",
+          "listItems": [
+            "Business center",
+            "Number of meeting rooms -  5",
+            "Conference space",
+            "Conference space size (feet) -  36618",
+            "Conference space size (meters) -  3402"
+          ]
+        },
+        {
+          "heading": "Services",
+          "listItems": [
+            "24-hour front desk",
+            "Concierge services",
+            "Tours/ticket assistance",
+            "Dry cleaning/laundry service",
+            "Laundry facilities",
+            "Hair salon",
+            "Free newspapers in lobby",
+            "Luggage storage",
+            "Wedding services",
+            "Multilingual staff"
+          ]
+        },
+        {
+          "heading": "Facilities",
+          "listItems": [
+            "Number of buildings/towers -  1",
+            "Year Built -  2018",
+            "Elevator",
+            "ATM/banking",
+            "Designated smoking areas",
+            "Garden",
+            "Picnic area",
+            "Terrace",
+            "Television in common areas"
+          ]
+        },
+        {
+          "heading": "Accessibility",
+          "listItems": [
+            "Braille or raised signage",
+            "Accessible bathroom",
+            "In-room accessibility",
+            "Wheelchair accessible",
+            "Wheelchair-accessible path of travel",
+            "Wheelchair-accessible parking",
+            "Wheelchair-accessible public restroom",
+            "Wheelchair-accessible concierge desk",
+            "Wheelchair-accessible van parking",
+            "Valet for wheelchair-equipped vehicle",
+            "Wheelchair-accessible path to lift",
+            "Wheelchair-accessible registration desk",
+            "Wheelchair-accessible spa",
+            "Wheelchair-accessible fitness center",
+            "Wheelchair-accessible meeting spaces/business center",
+            "Wheelchair-accessible on-site restaurant",
+            "Wheelchair-accessible lounge",
+            "Visual alarms in hallways",
+            "Handrails in stairways",
+            "Wheelchairs available on site",
+            "Braille signage",
+            "Wheelchair-accessible bathroom vanity",
+            "Grab bar - near toilet",
+            "Grab bar - in shower",
+            "Bathroom emergency pull cord"
+          ]
+        },
+        {
+          "heading": "Languages Spoken",
+          "listItems": ["English", "Hindi"]
+        }
+      ]
+    },
+    {
+      "heading": "In the room",
+      "listItems": [
+        {
+          "heading": "Home comforts",
+          "listItems": [
+            "Air conditioning",
+            "Ceiling fan",
+            "Coffee/tea maker",
+            "Slippers",
+            "Iron/ironing board"
+          ]
+        },
+        {
+          "heading": "Sleep well",
+          "listItems": [
+            "Hypo-allergenic bedding available",
+            "Soundproofed rooms",
+            "Turndown service",
+            "Sleep Number by Select Comfort mattress"
+          ]
+        },
+        {
+          "heading": "Things to enjoy",
+          "listItems": ["Balcony"]
+        },
+        {
+          "heading": "Freshen up",
+          "listItems": [
+            "Separate bathtub and shower",
+            "Designer toiletries",
+            "Hair dryer"
+          ]
+        },
+        {
+          "heading": "Be entertained",
+          "listItems": ["49-inch flat-screen TV", "Premium TV channels"]
+        },
+        {
+          "heading": "Stay connected",
+          "listItems": ["Desk", "Free newspaper", "Free WiFi", "Phone"]
+        },
+        {
+          "heading": "Food and drink",
+          "listItems": ["Free bottled water"]
+        },
+        {
+          "heading": "More",
+          "listItems": [
+            "Daily housekeeping",
+            "In-room safe",
+            "Connecting/adjoining rooms available"
+          ]
+        }
+      ]
+    }
+  ],
+  "optionalExtras": [
+    "<p><strong>Late check-out</strong> can be arranged for an extra charge (subject to availability, amount varies)</p>",
+    "<p><strong>Spa access</strong> is available for an extra charge of INR 3000 per stay</p>",
+    "<p><strong>Rollaway</strong> beds are available for INR 2000.0 per night</p>",
+    "<p><strong>Continental breakfast</strong> is offered for an extra charge of INR 550 per person (approximately)</p>",
+    "<p><strong>Children's club</strong> access is available for an extra charge</p>",
+    "<p><strong>Laundry facilities</strong> are available for an extra charge of INR 1000 per day</p>"
+  ],
+  "specialFeatures": {
+    "sections": [
+      {
+        "heading": "Spa",
+        "freeText": "<strong>Shine Spa</strong> has 5 treatment rooms. Services include deep-tissue massages, hot stone massages, Swedish massages, and Thai massages. A variety of treatment therapies are provided, including aromatherapy, Ayurvedic, and reflexology. The spa is equipped with a mud bath and a steam room. <p>The spa is open daily. Guests under 10 years old are not allowed in the spa. </p>",
+        "listItems": [],
+        "subsections": []
+      },
+      {
+        "heading": "Dining",
+        "freeText": "<strong>The Reef</strong> - This restaurant specializes in international cuisine and serves breakfast, brunch, lunch, and dinner. A children's menu is available. Open 24 hours. <br/>\n<p></p><strong>Pelican Deck</strong> - This restaurant overlooks the ocean and garden and specializes in barbecue. Guests can enjoy alfresco dining (weather permitting). Open select days. <br/>\n<p></p><strong>Pintail Lounge</strong> - Onsite bar. Open daily. <br/>\n<p></p><strong>C Salt - By the Bay</strong> - This restaurant serves dinner only. Open daily. ",
+        "listItems": [],
+        "subsections": []
+      }
+    ]
+  },
+  "photos": [
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/26f9aa7a_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/5a83f555_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/2f690859_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/129815ad_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/67ced5ee_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/58fc3747_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/fec88586_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/9b18feb0_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/84f6f6e0_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/57a1dfbd_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/d4f03cd0_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/d553ec8f_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/65dcf7c9_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/cd6f2839_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/d537fcb2_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/7705523a_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/2932d37d_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/2c36fff6_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/635e9123_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/33b94c94_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/0817883c_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/31e55e61_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/c6d746c7_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/ddcef368_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/81b0e3e4_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/50ed4c22_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/a4c973aa_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/06b18b82_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/1478a3d0_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/a69216d5_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/1a3438c1_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/c1685e50_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/8fc1bb6b_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/b26c24f1_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/67f1d3e4_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/9e8ddedb_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/625f79bf_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/28ccd66c_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/1025c26d_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/0ed39767_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/b040d016_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/182f28e7_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/6ee6fb6e_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/218b8e92_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/1d8110d1_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/4eeaf564_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/4c5645ed_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/fbae30a8_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/080f4e6d_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/e2c3bcf9_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/b0d9ecdf_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/7ace5413_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/dd2080a9_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/1bc10dd4_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/6cdb7b46_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/2648d5b7_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/10edd089_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/4058b05a_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/dc07f5bd_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/54126fa7_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/f941c3c0_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/3cc9b05d_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/38768e52_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/1ad59514_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/87ae44d7_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/511aa630_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/8192e078_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/ce42674a_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/97486f00_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/e5ef12a7_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/f50857ce_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/58a6ccf5_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/c9d8dd60_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/08f8512a_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/352d1354_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/80c69580_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/cb30e582_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/0c302ab6_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/16d811ff_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/7863b930_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/ee553941_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/6cca3e8f_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/d8bb097b_z.jpg",
+    "https://exp.cdn-hotels.com/hotels/25000000/24910000/24909300/24909267/078b782b_z.jpg"
+  ],
+  "reviews": {
+    "overallRating": 9.2,
+    "hotelService": 9.4,
+    "roomComfort": 9.8,
+    "hotelCondition": 9.6,
+    "cleanliness": 9.4,
+    "neighbourhood": 8.8,
+    "reviews": [
+      {
+        "recommendedBy": "Samuel Vijay",
+        "rating": 10,
+        "formattedRating": "10.0",
+        "qualitativeBadgeText": "Exceptional",
+        "postedOn": "1618444800000",
+        "title": "If you want to be pampered...choose Sheraton Grand",
+        "summary": "If you want to be waited hand and foot and feel the need to pampered for few days, just do yourself a favor and book Sheraton Grand, you will not be disappointed. I would have to say that this is arguably the best hotel in Chennai at the moment and if you can spar few extra bucks upgrade to the sea view rooms to indulge in a get away that will leave you with fond memories. \n\nMy family thoroughly enjoyed their stay and can't wait to be back. The rooms are well appointed and the level of service is what makes Sheraton stand out compared to other peroperties......",
+        "reviewType": "hr"
+      },
+      {
+        "recommendedBy": "",
+        "rating": 10,
+        "formattedRating": "10.0",
+        "qualitativeBadgeText": "Exceptional",
+        "postedOn": "1612742400000",
+        "title": "",
+        "summary": "We were a big group with 7 Adults & 3 Children. It was a wonderful experience with Sheraton Grand Chennai Resort & Spa. Totally recommend this place for a relaxing vacation with Beach access & a clean swimming pool. Breakfast was great with lot of variety.",
+        "reviewType": "er"
+      },
+      {
+        "recommendedBy": "Sudarshan Paul",
+        "rating": 6,
+        "formattedRating": "6.0",
+        "qualitativeBadgeText": "Good",
+        "postedOn": "1546473600000",
+        "title": "Nice property, needs fixes and staff training",
+        "summary": "Large sea-shore property with sprawling grounds, convenient to Mahabalipuram monuments. Helpful staff. \r\nI am a Marriott Pt member who got upgraded and was given freebies, which I am thankful for. This is my first negative review about a Marriott property.\r\nFour reasons for disappointment : \r\n1. :Sunday brunch : After the lunch was mostly laid out, the food display area floor and an in-floor gutter were being cleaned, creating a foul stench and health risk! The chef was very nonchalant about it!\r\n2. The light switches in my suite took a PhD to learn to operate, an 'engineer' sent to help could turn off one light only by cutting the wire to it and asked me to sleep with the other light on. \r\n3. It is a pain to find the way to the Garden Level rooms. The one small elevator to service that floor has cleaning carts parked to it.\r\n4. New Year Eve dinner buffet was late by 1.5 hours, the New Years Day buffet by on hour.",
+        "reviewType": "hr"
+      },
+      {
+        "recommendedBy": "Girishwar",
+        "rating": 6,
+        "formattedRating": "6.0",
+        "qualitativeBadgeText": "Good",
+        "postedOn": "1546041600000",
+        "title": "",
+        "summary": "Food was good . new property so everything is nice and clear . Check out  was  slow , checkin was even slower . Luggage handling was terrible. Had to wait nearly an hour to get luggage in the room . While checking out nobody came to pick the luggage up and after repeating requests twice , we decided to carry the luggage ourselves. Two front office ladies , came running to help . There is a intent to do a good job but then there is a proces and communication issue .",
+        "reviewType": "er"
+      }
+    ]
+  }
+}
